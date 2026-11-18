@@ -1,0 +1,5 @@
+package sv.resguardo.api.entidad.enums;
+
+public enum TipoOperacion {
+    CREAR_CONTRATO, CANCELAR_CONTRATO, REGISTRAR_DEPOSITO, MARCAR_ENVIADO, LIBERAR_FONDOS, ABRIR_DISPUTA, RESOLVER_DISPUTA
+}
